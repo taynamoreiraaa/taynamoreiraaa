@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Dev Junior
 - 📫 How to reach me +55 19 991247220
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Estou disposta a qualquer desafio 
 
 <!---
